@@ -10,6 +10,6 @@ My research focuses on:
 - Video Swin Transformer and X3D
 - Multimodal dataset development and experimental analysis
 
-I am interested in research and engineering opportunities involving computer vision, video understanding, and applied machine learning.
+I am interested in research and engineering opportunities involving computer vision, multimodal video understanding, and applied machine learning.
 
 [LinkedIn](https://www.linkedin.com/in/zahid-razzaq)

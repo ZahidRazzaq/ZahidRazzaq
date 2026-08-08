@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Zahid Razzaq
 
-<!--
-**ZahidRazzaq/ZahidRazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD candidate in Robotics and Intelligent Machines, working on computer vision and multimodal video understanding for human–robot collaboration.
 
-Here are some ideas to get you started:
+My research focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- RGB-Depth fusion for action recognition
+- Temporal video modelling
+- PyTorch-based model training and evaluation
+- Video Swin Transformer and X3D
+- Multimodal dataset development and experimental analysis
+
+I am interested in research and engineering opportunities involving computer vision, video understanding, and applied machine learning.
+
+[LinkedIn](https://www.linkedin.com/in/zahid-razzaq)

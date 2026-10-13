@@ -41,9 +41,9 @@ Acquired and processed EEG data, trained SVM intention classifiers, and develope
 **Multimodal & experimental workflows**  
 `RGB` · `Depth` · `Gaze` · `EEG` · `Project Aria` · `Temporal Annotation` · `Ablation Studies` · `Reproducible Evaluation`
 
-## Selected publications
+## Selected papers and presentations
 
-1. **Z. Razzaq et al.**, *A Comparative Evaluation of RGB–Depth Fusion for Egocentric Assembly Action Recognition*, accepted for presentation at **IC2IE 2026**.
+1. **Z. Razzaq et al.**, *A Comparative Evaluation of RGB–Depth Fusion for Egocentric Assembly Action Recognition*, presented at **IC2IE 2026** (10 September 2026; proceedings publication not yet confirmed).
 2. **Z. Razzaq**, N. Brahimi, H. Z. Ur Rehman, and Z. H. Khan, *Intelligent Control System for Brain-Controlled Mobile Robot Using Self-Learning Neuro-Fuzzy Approach*, **Sensors**, 24(18), 5875, 2024.
 3. **Z. Razzaq** and L. Bi, *Fuzzy-Based Shared Control for Brain-Controlled Mobile Robot*, **39th Chinese Control Conference**, pp. 3759–3764, 2020.
 4. N. Brahimi, H. Zhang, and **Z. Razzaq**, *Explainable Spatio-Temporal Inference Network for Car-Sharing Demand Prediction*, **ISPRS International Journal of Geo-Information**, 14(4), 163, 2025.

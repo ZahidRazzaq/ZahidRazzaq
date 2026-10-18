@@ -22,7 +22,7 @@ I am a final-stage PhD researcher in **Robotics and Intelligent Machines**, with
 Built a unified PyTorch benchmark for **RGB–Depth action recognition** using Video Swin Transformer/Swin3D and X3D, comparing recognition performance with latency, GFLOPs, and parameter count.
 
 ### Gaze-aware action recognition
-Evaluated **RGB+gaze integration, explicit gaze markers, gaze-guided foveation, and feature-level modulation**. The best controlled input-level gaze configuration improved the RGB baseline by approximately **1.5 percentage points**.
+Evaluated **RGB+gaze integration, explicit gaze markers, gaze-guided foveation, and feature-level modulation**.
 
 ### Project Aria multimodal dataset workflow
 Designed and conducted an assembly/disassembly recording study with approximately **24 participants** using **Meta Project Aria** and two fixed-view cameras. Developed a reusable fine-grained temporal annotation and timestamp-mapping workflow.
@@ -53,7 +53,7 @@ Acquired and processed EEG data, trained SVM intention classifiers, and develope
 
 I am interested in **research-engineering and applied R&D roles** involving computer vision, multimodal learning, video understanding, human activity recognition, multimodal sensing, or HRI.
 
-My strongest contribution is at the intersection of **model experimentation + multimodal data workflows + controlled evaluation**, rather than production backend/MLOps development.
+My work combines **model experimentation, multimodal data workflows, and controlled evaluation** for computer vision and human–robot collaboration.
 
 ---
 
